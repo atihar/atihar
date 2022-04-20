@@ -1,6 +1,6 @@
--================================================================
-=                                                             ===
-=                                                             ===
+- ================================================================
+- =                                                             ===
+- =                                                             ===
 - 👋 Hi, I’m @atihar
 - 👀 I’m interested in product management, future startups
 - 🌱 I’m more into cloud based node ecosystem
