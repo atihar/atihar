@@ -2,8 +2,8 @@
 - =                                                             ===
 - =                                                             ===
 - 👋 Hi, I’m @atihar
-- 👀 I’m interested in product management, future startups
-- 🌱 I’m more into cloud based node ecosystem
+- 👀 I’m interested in javascript ecosystem, startup product development
+- 🌱 I’m more into web based ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mahir@weabers.com
 - =                                                           ===
