@@ -3,8 +3,8 @@
 - =                                                             ===
 - 👋 Hi, I’m @atihar
 - 👀 I’m interested in javascript ecosystem, startup product development
-- 🌱 I’m more into JavaScript based ecosystem but for system design no choice, just business
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ai product business, green saas...
+- 👀 search on linkedin to connect, for meeting visit atiharhossenmahir.com
 - 📫 Reach me at mahir@weabers.com
 - =                                                           ===
 - =                                                           ===
